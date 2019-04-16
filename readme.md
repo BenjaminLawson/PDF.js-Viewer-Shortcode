@@ -39,9 +39,9 @@ Shortcode Syntax:
 *   download (optional): true/false, enables or disables download button (default: true)
 *   print (optional): true/false, enables or disables print button (default: true)
 
+*This plugin does not support a button within the Gutenberg interface, however the shortcode still works fine.*
+
 ## Installation
 This fork can be installed by downloading the files, and uploading to your sites `wp-content/plugins` directory. Make sure the plugin folder is named `pdfjs-viewer-shortcode`.
 
 The original plugin can be installed either directly from your WordPress admin panel, by searching for **PDF.js Viewer Shortcode**, or downloading from the Wordpress Plugin Repository, uploading and expanding the archive into your sites `wp-content/plugins` directory.
-
-
