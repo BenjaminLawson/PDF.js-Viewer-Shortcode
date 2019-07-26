@@ -6,7 +6,7 @@ Description: Embed PDFs with the gorgeous PDF.js viewer
 Version: 1.3
 Author: Ben Lawson
 Author URI: http://byterevel.com/
-License: GPLv2
+License: GPLv3
 */
 
 
