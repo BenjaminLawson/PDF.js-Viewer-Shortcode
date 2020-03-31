@@ -4,8 +4,7 @@ Plugin Name: PDFjs Viewer
 Plugin URI: http://byterevel.com/
 Description: Embed PDFs with the gorgeous PDF.js viewer
 Version: 1.4
-Author: Ben Lawson, Thomas McMahon
-Author URI: http://byterevel.com/
+Author: <a href="http://byterevel.com/">Ben Lawson</a>, <a href="https://www.twistermc.com/">Thomas McMahon</a>
 License: GPLv2
 */
 
