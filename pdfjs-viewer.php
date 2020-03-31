@@ -2,9 +2,9 @@
 /*
 Plugin Name: PDFjs Viewer
 Plugin URI: http://byterevel.com/
-Description: Embed PDFs with the gorgeous PDF.js viewer - Forked by Thomas McMahon
+Description: Embed PDFs with the gorgeous PDF.js viewer
 Version: 1.4
-Author: Ben Lawson
+Author: Ben Lawson, Thomas McMahon
 Author URI: http://byterevel.com/
 License: GPLv2
 */
