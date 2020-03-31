@@ -5,6 +5,7 @@ Plugin URI: http://byterevel.com/
 Description: Embed PDFs with the gorgeous PDF.js viewer
 Version: 1.4
 Author: <a href="http://byterevel.com/">Ben Lawson</a>, <a href="https://www.twistermc.com/">Thomas McMahon</a>
+Contributors: FalconerWeb, twistermc
 License: GPLv2
 */
 
