@@ -1,19 +1,18 @@
-# PDF.js Viewer Shortcode
-
-* Contributors: FalconerWeb, twistermc
-* Tags: pdf, pdf.js, viewer, reader, embed, mozilla, shortcode
-* Requires at least: 4.0
-* Tested up to: 5.4
-* Stable tag: 1.4.1
-* License: GPLv2 or later
-* License URI: http://www.gnu.org/licenses/gpl-2.0.html
-* Requires PHP: 7.2
+=== PDF.js Viewer Shortcode ===
+Contributors: FalconerWeb, twistermc
+Tags: pdf, pdf.js, viewer, reader, embed, mozilla, shortcode
+Requires at least: 4.0
+Tested up to: 5.4
+Stable tag: 1.4.1
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Requires PHP: 7.2
 
 Embed a beautiful PDF viewer into pages with a simple shortcode.
 
-## Description
+== Description ==
 
-Incorporate [Mozilla's PDF.js](https://github.com/mozilla/pdf.js/) viewer into your pages and posts with a simple shortcode. PDF.js is a javascript library for displaying pdf pages within browsers.
+Incorporate Mozilla's PDF.js viewer into your pages and posts with a simple shortcode. PDF.js is a javascript library for displaying pdf pages within browsers.
 
 Features:
 
