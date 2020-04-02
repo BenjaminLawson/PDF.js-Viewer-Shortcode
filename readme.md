@@ -3,14 +3,12 @@
 * Contributors: Ben Lawson, Thomas McMahon
 * Tags: pdf, pdf.js, viewer, reader, embed, mozilla, shortcode
 * Requires at least: 4.0
-* Tested up to: 5.3.2
-* Stable tag: 1.3
+* Tested up to: 5.4
+* Stable tag: 1.4.1
 
 Embed a beautiful PDF viewer into pages with a simple shortcode.
 
 ## Description
-
-*This is a fork of the original plugin. This version includes an updated version of Mozilla's PDF.js.*
 
 Incorporate [Mozilla's PDF.js](https://github.com/mozilla/pdf.js/) viewer into your pages and posts with a simple shortcode. PDF.js is a javascript library for displaying pdf pages within browsers.
 
