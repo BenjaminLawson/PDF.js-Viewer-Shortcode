@@ -50,6 +50,7 @@ This plugin can be installed either directly from your WordPress admin panel, by
 ### v1.4.2
 
 * Added title to iFrame for accessibility.
+* Cleaning up code per WordPress standards.
 
 ### v1.4.1
 
