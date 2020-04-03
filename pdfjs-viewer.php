@@ -63,7 +63,7 @@ function pdfjs_generator($incoming_from_handler) {
   if($fullscreen == 'true'){
        $fullscreen_link = '<a href="'.$final_url.'">View Fullscreen</a><br>';
   }
-  $iframe_code = '<iframe width="'.$viewer_width.'" height="'.$viewer_height.'" src="'.$final_url.'" ></iframe> ';
+  $iframe_code = '<iframe width="'.$viewer_width.'" height="'.$viewer_height.'" src="'.$final_url.'" title="Embedded PDF"></iframe> ';
 
   return $fullscreen_link.$iframe_code;
 }
