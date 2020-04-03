@@ -40,7 +40,9 @@ Shortcode Syntax:
 *   `download` (optional): true/false, enables or disables download button (default: true)
 *   `print` (optional): true/false, enables or disables print button (default: true)
 
-*This plugin does not support a button within the Gutenberg interface, however the shortcode still works fine.*
+*This plugin does not support a button within the Gutenberg interface yet, however the shortcode still works fine.*
+
+Want to help develop the plugin? Found a bug? [Find us on GitHub](https://github.com/TwisterMc/PDF.js-Viewer-Shortcode).
 
 ## Installation
 
@@ -62,3 +64,7 @@ This plugin can be installed either directly from your WordPress admin panel, by
 * Updating to PDF.JS version v2.3.200
 * Updating the Readme
 * Adding Gutenberg Callout
+
+### v1.0 - 1.3
+
+* The birth of the plugin and first few versions.

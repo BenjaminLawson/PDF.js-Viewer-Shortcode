@@ -61,3 +61,7 @@ This plugin can be installed either directly from your WordPress admin panel, by
 * Updating to PDF.JS version v2.3.200
 * Updating the Readme
 * Adding Gutenberg Callout
+
+### v1.0 - 1.3
+
+* The birth of the plugin and first few versions.
